@@ -47,6 +47,15 @@
 		</ingredient>
 	</ingredients>
 	
-	
+	<preparation>
+		<time value="60" />
+		<difficulty value="normal" />
+		<calorie value="295" />
+		
+		<description>
+			Butter und Schokolade im Wasserbad schmelzen. Eier trennen. Eiweiß steif schlagen. Eigelbe, Zucker und Vanillezucker verrühren. Geschmolzene Butter-Schokomasse hinzufügen und mischen. Mehl mit dem Backpulver in die Masse sieben und zum Schluss die steifen Eiweiße vorsichtig unterheben. In eine gut gefettete Form geben.
+			Bei 180°Grad 40 – 50 Minuten backen.
+		</description>
+	</preparation>
 	
 </recipes>
