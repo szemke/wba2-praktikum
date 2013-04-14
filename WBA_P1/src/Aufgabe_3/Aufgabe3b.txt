@@ -1,0 +1,23 @@
+Gemeinsamkeiten
+
+Vorraussetzungen Rezept
+
+	- Zutaten
+		- Menge
+		- Einheit
+		- Name
+		- Link (Optional)
+		
+	- Zubereitung
+		- Arbeitszeit
+		- Schwierigkeitsgrad
+		- Brennwert
+		- Beschreibung
+		
+	- Optional
+		- Bild
+		
+	- Kommentarfunktion
+		- Neuen Kommentar schreiben
+		- Kommentar bewerten
+		- Kommentar beantworten
