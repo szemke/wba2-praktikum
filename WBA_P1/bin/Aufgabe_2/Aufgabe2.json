@@ -1,0 +1,24 @@
+{
+	"person":[
+		{
+			"grp":0,
+			"first_name":"Max",
+			"last_name":"Mustermann",
+			"email":"max.mustermann@mustermail.de",
+			"birthday":"20.05.1985",
+			"experience":2,
+			"equipment":true,
+			
+		},
+		{
+			"grp":1,
+			"first_name":"Peter",
+			"last_name":"Pan",
+			"email":"Peter.Pan@trash-mail.com",
+			"birthday":"19.03.1980",
+			"experience":1,
+			"equipment":false,
+		}
+	],
+	"comment": "Dies ist ein Kommentar!"
+}
