@@ -19,4 +19,12 @@ Ist ein Wohlgeformtes XML,
 	- es gibt ein äußeres Element (Dokument-Element), dass alle anderen Datenelemente Enthält (<Dialog></Dialog>)
 
 Es fehlt jedoch der Bezug zu einer DTD, in der die verwendeten Elemente definiert sind. Deshalt kann man über das Beispiel sagen, es ist wohlgeformt, aber nicht gültig.
-		
+
+
+Validität
+Ein XML-Dokument ist „valide“, wenn dessen Format durch eine Grammatik definiert wird, es wohlgeformt ist und die definierte Grammatik auch eingehalten wird.
+
+
+Namespace
+Namespaces dienen dazu, dass Vokabular eines XML Dokuments eindeutig zu identifizieren. Etwa wenn in einem XML Dokument mehrere XML-Sprachen gemischt werden. Namensräume erlauben es Elemente eindeutig zu unterscheiden.
+  		
