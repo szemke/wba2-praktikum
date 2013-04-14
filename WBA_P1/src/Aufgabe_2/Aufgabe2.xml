@@ -10,6 +10,15 @@
 			<experience value="2" />
 			<equipment bool="true" />
 		</person>
+		<person>
+			<grp id="1" />
+			<first_name>Peter</first_name>
+			<last_name>Pan</last_name>
+			<email>Peter.Pan@trash-mail.com</email>
+			<birthday format="dd.mm.yyyy">19.03.1980</birthday>
+			<experience value="1" />
+			<equipment bool="false" />
+		</person>
 	</persons>
 	<comment>Dies ist ein Kommentar!</comment>
 </registration>

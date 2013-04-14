@@ -1,1 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<registration>
+	<persons>
+		<person>
+			<grp id="0" />
+			<first_name>Max</first_name>
+			<last_name>Mustermann</last_name>
+			<email>max.mustermann@mustermail.de</email>
+			<birthday format="dd.mm.yyyy">20.05.1985</birthday>
+			<experience value="2" />
+			<equipment bool="true" />
+		</person>
+		<person>
+			<grp id="1" />
+			<first_name>Peter</first_name>
+			<last_name>Pan</last_name>
+			<email>Peter.Pan@trash-mail.com</email>
+			<birthday format="dd.mm.yyyy">19.03.1980</birthday>
+			<experience value="1" />
+			<equipment bool="false" />
+		</person>
+	</persons>
+	<comment>Dies ist ein Kommentar!</comment>
+</registration>
