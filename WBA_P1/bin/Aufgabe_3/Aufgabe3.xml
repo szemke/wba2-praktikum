@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+	<recipename>Lenchen's Schokoladenkuchen</recipename>
+	<ingredients>
+		<ingredient>
+			<name>Butter</name>
+			<quantitative>200</quantitative>
+			<unit>g</unit>
+		</ingredient>
+		
+		<ingredient>
+			<name>Zucker</name>
+			<quantitative>200</quantitative>
+			<unit>g</unit>
+		</ingredient>
+		
+		<ingredient>
+			<name>Schokolade, Blockschokolade</name>
+			<quantitative>200</quantitative>
+			<unit>g</unit>
+			<link src="http://www.chefkoch.de/rezept-zutateninfo-com.php?ID=1618"></link>
+		</ingredient>
+		
+		<ingredient>
+			<name>Mehl</name>
+			<quantitative>125</quantitative>
+			<unit>g</unit>
+		</ingredient>
+		
+		<ingredient>
+			<name>Backpulver</name>
+			<quantitative>1/2</quantitative>
+			<unit>TL</unit>
+		</ingredient>
+		
+		<ingredient>
+			<name>Vanillezucker</name>
+			<quantitative>1</quantitative>
+			<unit>Pkt.</unit>
+		</ingredient>
+		
+		<ingredient>
+			<name>Eier</name>
+			<quantitative>4</quantitative>
+			<unit>Stk</unit>
+			<link src="http://www.chefkoch.de/rezept-zutateninfo-com.php?ID=36"></link>
+		</ingredient>
+	</ingredients>
+	
+	
+	
+</recipes>
