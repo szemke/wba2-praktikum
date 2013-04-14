@@ -1,0 +1,22 @@
+# WBA2 - Praktikum Aufgabe 1
+#
+# Erklären Sie kurz die Begriffe: Wohlgeformtheit, Validität und Namespaces im Bezug auf XML
+
+Wohlgeformtheit
+Der Begriff Wohlgeformtheit bedeutet, dass eine Datei die Regeln von XML korrekt einhält.
+
+Bsp.:
+
+<?xml version="1.0"?>
+<Dialog>
+  <Adam Emotion="heftig">ich liebe dich!</Adam>
+  <Eva Emotion="heftig">ich dich auch!</Eva>
+</Dialog>
+
+Ist ein Wohlgeformtes XML,
+	- da am beginn die XML-Deklaration den Bezug zu XML herstellt
+	- es mindestens ein Datenelement gibt (<Dialog></Dialog; <Adam></Adam>; <Eva></Eva>)
+	- es gibt ein äußeres Element (Dokument-Element), dass alle anderen Datenelemente Enthält (<Dialog></Dialog>)
+
+Es fehlt jedoch der Bezug zu einer DTD, in der die verwendeten Elemente definiert sind. Deshalt kann man über das Beispiel sagen, es ist wohlgeformt, aber nicht gültig.
+		
